@@ -137,8 +137,8 @@ Retrieves a list of files for the authenticated user, optionally filtered by par
 
 ### Query parameters:
 
-``parentId``: The ID of the parent folder (optional).
-``page``: The current page number (optional, defaults to 0).
+- ``parentId``: The ID of the parent folder (optional).
+- ``page``: The current page number (optional, defaults to 0).
 
 <b>Authorization</b>: Bearer token.
 
