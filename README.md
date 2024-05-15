@@ -158,7 +158,7 @@ Unpublishes a file (makes it private).
 
 Retrieves the content of a file.
 
-## Authorization: Bearer token (if the file is not public).
+<b>Authorization</b>: Bearer token (if the file is not public).
 
 ### Error Codes
 
